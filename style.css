@@ -1,5 +1,5 @@
 .center {
-  width: 400px;
+  width: 520px;
   margin: auto;
   text-align: center;
   font-family: 'Courier New', monospace;
@@ -9,4 +9,21 @@
 body {
   font-family: 'Courier New', monospace;
   font-size: 16px;
+  color: black;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: black;
 }
