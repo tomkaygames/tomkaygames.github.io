@@ -1,5 +1,5 @@
 .center {
-  width: 520px;
+  max-width: 520px;
   margin: auto;
   text-align: center;
   font-family: 'Courier New', monospace;
