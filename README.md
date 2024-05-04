@@ -1,4 +1,4 @@
 # tomkaygames.github.io
-<a href="tomkay.dev">tomkay.dev</a>
+<a href="https://tomkay.dev">tomkay.dev</a>
 
 My website.
