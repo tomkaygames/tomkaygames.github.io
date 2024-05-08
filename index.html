@@ -11,7 +11,8 @@
   <body>
     <div class="center">
       <img src="avatar.png" alt="Pixel art of a sitting black cat.">
-      <p>Tom Kay</p>
+      <h1>Tom Kay</h1>
+      <p>he/him</p>
       <p>game developer, writer, composer<br>
       contact: <a id="contact" href="">email</a></p>
       <p><a href="about.html">about</a></p>
@@ -25,6 +26,7 @@
     </div>
   </body>
   <script type="text/javascript">
+    <!--Email is encrypted to stop spam bots... idk if this actually works-->
     var encAddress = "dG9tQHRvbWtheS5kZXY=";
     const form = document.getElementById("contact");
     form.setAttribute("href", "mailto:".concat(atob(encAddress)));
